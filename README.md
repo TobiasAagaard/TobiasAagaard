@@ -2,7 +2,7 @@
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TobiasAagaard &theme=THEME_NAME)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TobiasAagaard&show_icons=true&theme=radical&show_icons=true)
 
 
 <!--
