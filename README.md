@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api?username=TobiasAagaard/cards?titleAlign=center&lineCount=1&bg=%230D1117&badge=%23161B22&border=%2321262D&titleColor=%2358A6FF)
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TobiasAagaard)](https://github.com/anuraghazra/github-readme-stats)
 
