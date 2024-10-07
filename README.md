@@ -3,6 +3,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TobiasAagaard&show_icons=true&theme=radical&show_icons=true)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmorten010&label=Visitors&countColor=%23263759)
 
 
 <!--
