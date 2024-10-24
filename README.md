@@ -1,8 +1,12 @@
-### Hi there 👋
+<div align="center">
+<h1>Hi there 👋</h1>
+</div>
 
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TobiasAagaard&show_icons=true&theme=radical&show_icons=true)
+<div align="center">
+<img alt="Maksym's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=TobiasAagaard&show_icons=true&theme=tokyonight"/>
+<img alt="Top langs" width="308px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TobiasAagaard&layout=compact&&langs_count=8&theme=tokyonight"/>
+</div>
 
 
 
