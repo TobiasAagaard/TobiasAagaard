@@ -1,12 +1,29 @@
 <div align="center">
-<h1>Hi there👋</h1>
+  <h1>Hey there! 👋 I'm Tobias Aagaard</h1>
+  <p>💻 Passionate Developer | 🚀 Tech Enthusiast</p>
 </div>
 
+---
 
+### 👨‍💻 About Me  
+- 🎓 **Aspiring Software Engineer** with a focus on **C#, Python, and Full-Stack Development**  
+<!--  🛠 Currently working on **Atomic Workout** (a fitness app) and an **OS Kernel in C++** -->
+
+
+---
+
+
+### 📊 GitHub Stats  
 <div align="center">
-<img alt="Maksym's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=TobiasAagaard&show_icons=true&theme=tokyonight"/>
-<img alt="Top langs" width="308px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TobiasAagaard&layout=compact&&langs_count=8&theme=tokyonight"/>
+  <img alt="Tobias's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=TobiasAagaard&show_icons=true&theme=tokyonight"/>
+  <img alt="Top langs" width="308px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TobiasAagaard&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
+
+---
+
+### 🌍 Let's Connect!  
+💼 [LinkedIn](https://www.linkedin.com/in/tobias-aagaard-christiansen-006152288/)   
+🚀 [Portfolio (Coming Soon)](#)  
 
 
 
@@ -24,3 +41,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- -->
