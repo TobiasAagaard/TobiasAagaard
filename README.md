@@ -1,12 +1,14 @@
 <div align="center">
   <h1>Hey there! 👋 I'm Tobias Aagaard</h1>
-  <p>💻 Passionate Developer | 🚀 Tech Enthusiast</p>
+  <p>💻 Passionate Developer | 🚀 Tech Enthusiast | 🌐 Constantly exploring new technologies</p>
 </div>
 
 ---
 
 ### 👨‍💻 About Me  
-- 🎓 **Aspiring Software Engineer** with a focus on **C#, Python, and Full-Stack Development**  
+- 🎓 **Aspiring Software Engineer** with a focus on **C#, DevOps & Cloud Technologies and Full-Stack Development**
+- 💡 Passionate about building **scalable applications, automation, and system optimization**
+- 🌍 Open to collaborations and always eager to **explore new technologies**  
 <!--  🛠 Currently working on **Atomic Workout** (a fitness app) and an **OS Kernel in C++** -->
 
 
