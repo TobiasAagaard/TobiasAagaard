@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hey there! 👋 I'm Tobias Aagaard</h1>
+  <h1>Hey there! 👋 I'm Tobias Aagaard Christiansen</h1>
   <p>💻 Passionate Developer | 🚀 Tech Enthusiast | 🌐 Constantly exploring new technologies</p>
 </div>
 
