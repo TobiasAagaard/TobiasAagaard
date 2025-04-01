@@ -6,14 +6,14 @@
 ---
 
 ### 👨‍💻 About Me  
-- 🎓 **Aspiring Software Engineer** with a focus on **C#, DevOps & Cloud Technologies and Full-Stack Development**
-- 💡 Passionate about building **scalable applications, automation, and system optimization**
+- 🎓 **Aspiring Software Engineer** with a focus on **C#, DevOps & Cloud Technologies and Full-Stack Development**  
+- 💡 Passionate about building **scalable applications, automation, and system optimization**  
+- 🏢 Currently working at **Trifork**  
 - 🌍 Open to collaborations and always eager to **explore new technologies**  
 <!--  🛠 Currently working on **Atomic Workout** (a fitness app) and an **OS Kernel in C++** -->
 
 
 ---
-
 
 ### 📊 GitHub Stats  
 <div align="center">
@@ -25,8 +25,7 @@
 
 ### 🌍 Let's Connect!  
 💼 [LinkedIn](https://www.linkedin.com/in/tobias-aagaard-christiansen-006152288/)   
-🚀 [Portfolio (Coming Soon)](#)  
-
+🚀 [Portfolio (Coming Soon)](#) 
 
 
 <!--
