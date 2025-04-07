@@ -6,7 +6,7 @@
 ---
 
 ### 👨‍💻 About Me  
-- 🎓 **Aspiring Software Engineer** with a focus on **C#, DevOps & Cloud Technologies and Full-Stack Development**  
+- 🎓 **Aspiring Software Engineer** with a focus on **C#, Go-Lang, DevOps & Cloud Technologies and Full-Stack Development**  
 - 💡 Passionate about building **scalable applications, automation, and system optimization**  
 - 🏢 Currently working at **Trifork**  
 - 🌍 Open to collaborations and always eager to **explore new technologies**  
