@@ -24,7 +24,7 @@
 ---
 
 ### 🌍 Let's Connect!  
-💼 <a href="https://www.linkedin.com/in/tobias-aagaard-christiansen-006152288/" target="_blank">LinkedIn</a>  
+💼 [LinkedIn](https://www.linkedin.com/in/tobias-aagaard-christiansen-006152288/)
 🚀 [Portfolio (Coming Soon)](#) 
 
 
