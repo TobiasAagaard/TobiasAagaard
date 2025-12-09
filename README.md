@@ -1,14 +1,6 @@
 <div align="center">
   <h1>Hey there! 👋 </h1>
 
-</div>
-
-<div align="center">
-  <img alt="Tobias's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=TobiasAagaard&show_icons=true&theme=tokyonight"/>
-  <img alt="Top langs" width="308px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TobiasAagaard&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
----
 
 ### Let's Connect!  
 [LinkedIn](https://www.linkedin.com/in/tobias-aagaard-christiansen-006152288/)
