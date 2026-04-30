@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>Hey there! 👋 </h1>
-
+  <img src="header.svg" alt="TOBIAS header" />
+</div>
 
 ### Let's Connect!  
 [LinkedIn](https://www.linkedin.com/in/tobias-aagaard-christiansen-006152288/)
