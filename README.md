@@ -1,11 +1,11 @@
 <div align="center">
   <img src="header.svg" alt="TOBIAS header" />
+
+  <h3>Let's Connect!</h3>
+
+  <a href="https://www.linkedin.com/in/tobias-aagaard-christiansen-006152288/">LinkedIn</a> &nbsp;|&nbsp;
+  <a href="#">Portfolio (Coming Soon)</a>
 </div>
-
-### Let's Connect!  
-[LinkedIn](https://www.linkedin.com/in/tobias-aagaard-christiansen-006152288/)
-
-[Portfolio (Coming Soon)](#) 
 
 
 <!--
