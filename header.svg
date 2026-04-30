@@ -1,0 +1,17 @@
+**```svg
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="160" viewBox="0 0 850 160">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#a855f7"/>
+      <stop offset="100%" style="stop-color:#3b82f6"/>
+    </linearGradient>
+  </defs>
+  <text fill="url(#grad)" font-family="monospace" font-size="16" xml:space="preserve">
+    <tspan x="10" y="30"> _____ ___  ____ ___    _    ____  </tspan>
+    <tspan x="10" y="50">|_   _/ _ \| __ )_ _|  / \  / ___| </tspan>
+    <tspan x="10" y="70">  | || | | |  _ \| |  / _ \ \___ \ </tspan>
+    <tspan x="10" y="90">  | || |_| | |_) | | / ___ \ ___) |</tspan>
+    <tspan x="10" y="110">  |_| \___/|____/___/_/   \_\____/ </tspan>
+  </text>
+</svg>
+```**
